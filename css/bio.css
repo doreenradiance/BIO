@@ -1,0 +1,18 @@
+.photo{
+    color: rgb(red, green, blue);
+    background-color: orchid;
+}
+
+.left{
+    background-color:lightseagreen;
+}
+.navbar-brand{
+    background-color:lightseagreen;
+    width:31.5vw;
+}
+.img{height:80vh;
+     width:31.5vw;
+}
+.col-md-8{
+    background-color:  orchid ;
+}
