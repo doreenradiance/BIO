@@ -1,6 +1,6 @@
 .photo{
     color: rgb(red, green, blue);
-    background-color: orchid;
+    background-color:lightpink;
 }
 
 .left{
@@ -14,5 +14,5 @@
      width:31.5vw;
 }
 .col-md-8{
-    background-color:  orchid ;
+    background-color: lightpink;
 }
